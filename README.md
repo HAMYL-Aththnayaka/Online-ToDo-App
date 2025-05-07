@@ -51,7 +51,7 @@ Adds a new to-do item to the database. You can send the data in the request body
 3. DELETE /todo/:item
 Deletes a to-do item from the database based on the item’s name. The name is passed as a parameter in the URL (e.g., /todo/Buy%20groceries).
 
-Contributing
+3 Contributing
 Feel free to fork this project and submit pull requests. If you find any bugs or have suggestions for improvements, please open an issue in the GitHub repository.
 
 License
